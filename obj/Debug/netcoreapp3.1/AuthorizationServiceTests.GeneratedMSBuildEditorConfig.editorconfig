@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AuthorizationServiceTests
+build_property.ProjectDir = C:\AuditManagementSystem\Audit-Management-System_backend\Audit-Management-system-master\AuthorizationServiceTests\
