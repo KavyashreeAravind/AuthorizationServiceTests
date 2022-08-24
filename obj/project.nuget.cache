@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FmIrTQDiCJCh6P4XC9zepbx2pMEolFViHo1XXp3LEddLAlflG6LJJ3RIwvDh9W/3lAy45J5MjTOvPOZ2KPhV5Q==",
+  "dgSpecHash": "kfpBKmS52NtPSrWtTsBbHQKmMt7S09cAjZD1adokYGjLHWX2U/TxeRF4IcVZ5PJxnAD3yO8UI1YBtOApbPsuoA==",
   "success": true,
-  "projectFilePath": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\AuthorizationServiceTests.csproj",
+  "projectFilePath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\AuthorizationServiceTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\916009\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\916009\\.nuget\\packages\\log4net\\2.0.10\\log4net.2.0.10.nupkg.sha512",

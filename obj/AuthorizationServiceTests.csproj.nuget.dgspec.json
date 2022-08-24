@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\AuthorizationServiceTests.csproj": {}
+    "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\AuthorizationServiceTests.csproj": {}
   },
   "projects": {
-    "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\AuthorizationServiceTests.csproj": {
+    "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\AuthorizationServiceTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\AuthorizationServiceTests.csproj",
+        "projectUniqueName": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\AuthorizationServiceTests.csproj",
         "projectName": "AuthorizationServiceTests",
-        "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\AuthorizationServiceTests.csproj",
+        "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\AuthorizationServiceTests.csproj",
         "packagesPath": "C:\\Users\\916009\\.nuget\\packages\\",
-        "outputPath": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\obj\\",
+        "outputPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationServiceTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\AuthorizationService.csproj": {
-                "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\AuthorizationService.csproj"
+              "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\AuthorizationService.csproj": {
+                "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\AuthorizationService.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\AuthorizationService.csproj": {
+    "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\AuthorizationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\AuthorizationService.csproj",
+        "projectUniqueName": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\AuthorizationService.csproj",
         "projectName": "AuthorizationService",
-        "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\AuthorizationService.csproj",
+        "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\AuthorizationService.csproj",
         "packagesPath": "C:\\Users\\916009\\.nuget\\packages\\",
-        "outputPath": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\obj\\",
+        "outputPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuthorizationService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
